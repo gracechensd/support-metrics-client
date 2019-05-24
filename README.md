@@ -1,5 +1,8 @@
 # Confluent Proactive Support: Client
 
+| THIS REPO IS DEPRECATED.  Please use [ce-kafka](https://github.com/confluentinc/ce-kafka) instead. |
+| -------------------------------------------------------------------------------------------------- |
+
 # Overview
 
 This repository contains the client application for metrics collection of proactive support.
