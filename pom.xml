@@ -12,7 +12,6 @@
   </parent>
 
   <artifactId>support-metrics-client-parent</artifactId>
-  <version>4.1.1</version>
   <packaging>pom</packaging>
   <name>support-metrics-client-parent</name>
 
