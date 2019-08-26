@@ -1,5 +1,5 @@
 #!/usr/bin/env groovy
 common {
-  slackChannel = '#proactive-support'
+  slackChannel = ''
   upstreamProjects = 'confluentinc/support-metrics-common'
 }
